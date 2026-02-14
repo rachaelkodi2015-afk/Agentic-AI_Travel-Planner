@@ -100,15 +100,6 @@ Is the air quality safe in Chicago?
 4. **ReAct Pattern** - Agent reasons about which tools to use
 5. **Memory** - Remembers conversation context
 
-## 📝 For Your Presentation
-
-Key points to emphasize:
-1. "Using LangChain v0.3.81+ which satisfies v1.2+"
-2. "All packages managed with UV and pyproject.toml"
-3. "Using create_react_agent - LangChain's built-in function"
-4. "All API calls use requests package"
-5. "Works with any cities - fully robust"
-
 ## 🔧 Troubleshooting
 
 ### "No module named langchain"
